@@ -36,9 +36,9 @@ Through this project, I want to learn:
 - [x] Detect commands like `add` and `list`
 
 ### Milestone 2: Organize Code Properly
-- [ ] Move task logic into `taskManager.js`
-- [ ] Keep `app.js` only for reading commands and routing actions
-- [ ] Understand `require()` and `module.exports`
+- [x] Move task logic into `taskManager.js`
+- [x] Keep `app.js` only for reading commands and routing actions
+- [x] Understand `require()` and `module.exports`
 
 ### Milestone 3: Save Tasks to File
 - [ ] Store tasks in `tasks.json`
